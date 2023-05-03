@@ -34,6 +34,6 @@ https://fivethirtyeight.com/features/fandango-movies-ratings/ - ознакоми
 ## Выводы:
 
 Fandango показывал 3-4 звезды для фильмов, которые были неудачными. Также удалось выяснить, что фильм Taken 3 отличается от других фильмов - Fandango дал ему рейтинг 4.5 звёзд, хотя этот фильм получил средний рейтинг 1.86 от других компаний
- 
 
+![2](https://images.flickreel.com/wp-content/uploads/2017/10/fandango_logo.jpg)
 
